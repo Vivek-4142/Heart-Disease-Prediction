@@ -89,18 +89,19 @@ Move the downloaded file to:
 ```bash
 models/heart_model.pkl
 
-## 🚀 How to Clone and Run the Project
+ 🚀 How to Clone and Run the Project
 
 Follow these steps to set up and run the **Heart Disease Prediction System** on your local machine.
 
 ---
 
-### 1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 
 Open your terminal or command prompt and run:
 
 ```bash
 git clone https://github.com/Vivek-4142/Heart-Disease-Prediction.git
+
 2️⃣ Navigate to the Project Folder
 cd Heart-Disease-Prediction
 3️⃣ (Optional) Create a Virtual Environment
